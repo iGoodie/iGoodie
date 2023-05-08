@@ -1,4 +1,14 @@
 <details>
+  <summary>:gem: Showcase</summary>
+  
+  ### Websites
+  * :gem: [VaultHunters.gg](https://vaulthunters.gg/) - NestJS backend + ReactJS frontend
+  * :gem: [VaultHunters.gg Armory](https://vaulthunters.gg/armory) - NestJS backend integration, and Java GameServer worker
+  * :gem: [MinecraftAuth.me](https://minecraftauth.me/) - Pebble template engine
+  * :gem: [IEC Online Exams](https://www.figma.com/file/uR9VORXYWEs2h1WuR55lia/iec-showcase?type=design&node-id=0%3A1&t=fuJUmENxXeDI3AfW-1) - A private online exam project, developed using NestJS backend + ReactJS frontend
+</details>
+
+<details>
   <summary>:last_quarter_moon: Frontend Coding Stack</summary>
   
   (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
@@ -64,12 +74,4 @@
   * :star: [NestJS-CLI](https://github.com/nestjs/nest-cli) - Since I use NestJS very often, I use its CLI to build NestJS projects
   * :star: [Gulp.js](https://gulpjs.com/) - Task automation tool like Gradle
   
-</details>
-
-<details>
-  <summary>:globe_with_meridians: Minecraft Mod Development Stack</summary>
-  
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
-
-
 </details>
