@@ -1,7 +1,7 @@
 <details>
   <summary>:last_quarter_moon: Frontend Coding Stack</summary>
   
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :postal_horn:: Has a limited knowledge)
+  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
 
   ### Dev Tools
   * :star: [Typescript](https://www.typescriptlang.org/) - Type safe Javascript transpiler
@@ -17,12 +17,12 @@
   * :cyclone: [Pebble](https://pebbletemplates.io/) - A Java template render engine
   * :cyclone: [P5.js](https://p5js.org/) - A very high level GL canvas, pretty good for 2D draw contexts
   * :cyclone: [Three.js](https://threejs.org/) - A very high level GL canvas, pretty good for 3D draw contexts
-  * :postal_horn: [WebGL](https://www.khronos.org/webgl/) - OpenGL wrapper that works on web
+  * :herb: [WebGL](https://www.khronos.org/webgl/) - OpenGL wrapper that works on web
   
   ### Stylesheet Tools
   * :star: [Sass](https://sass-lang.com/) - CSS transpiler with awesome syntactic sugars
   * :cyclone: [Bootstrap](https://getbootstrap.com/) - A CSS toolkit/library
-  * :postal_horn: [TailwindCSS](https://tailwindcss.com/) - A CSS toolkit/library
+  * :herb: [TailwindCSS](https://tailwindcss.com/) - A CSS toolkit/library
   
   ### Build-time Tools
   * :star: [Vite](https://vitejs.dev/) - Build pipe and bundling stuff, both for Web apps and Figma plugins
@@ -39,7 +39,7 @@
 <details>
   <summary>:first_quarter_moon: Backend Coding Stack</summary>
   
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :postal_horn:: Has a limited knowledge)
+  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
     
   ### Dev Tools
   * :star: [Typescript](https://www.typescriptlang.org/) - Type safe Javascript transpiler
@@ -54,7 +54,7 @@
   * :cyclone: [Handlebars.js](https://handlebarsjs.com/) - A template render engine, which comes in handy when storing mail templates as an artifact
   * :cyclone: [Express](https://expressjs.com/) - A barebones of a HTTP/S backend framework
   * :cyclone: [FeathersJS](https://feathersjs.com/) - A backend framework
-  * :postal_horn: [Fastify](https://www.fastify.io/) - Sort of *a faster Express*, I generally use it to fasten up NestJS' underlying transports
+  * :herb: [Fastify](https://www.fastify.io/) - Sort of *a faster Express*, I generally use it to fasten up NestJS' underlying transports
   
   ## Database Management Systems
   * :star: [MongoDB](https://www.mongodb.com/) - My all-times favourite NoSQL DBMS
@@ -69,7 +69,7 @@
 <details>
   <summary>:globe_with_meridians: Minecraft Mod Development Stack</summary>
   
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :postal_horn:: Has a limited knowledge)
+  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
 
 
 </details>
