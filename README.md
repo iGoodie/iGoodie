@@ -2,10 +2,18 @@
   <summary>:gem: Showcase</summary>
   
   ### Websites
-  * :gem: [VaultHunters.gg](https://vaulthunters.gg/) - NestJS backend + ReactJS frontend
-  * :gem: [VaultHunters.gg Armory](https://vaulthunters.gg/armory) - NestJS backend integration, and Java GameServer worker
-  * :gem: [MinecraftAuth.me](https://minecraftauth.me/) - Pebble template engine
-  * :gem: [IEC Online Exams](https://www.figma.com/file/uR9VORXYWEs2h1WuR55lia/iec-showcase?type=design&node-id=0%3A1&t=fuJUmENxXeDI3AfW-1) - A private online exam project, developed using NestJS backend + ReactJS frontend
+  * :gem: [VaultHunters.gg](https://vaulthunters.gg/) - Fullstack • *(NestJS backend, ReactJS frontend)*
+  * :gem: [VaultHunters.gg Armory](https://vaulthunters.gg/armory) - Backend and GameSever Worker • *(NestJS backend, Java GameServer worker)*
+  * :gem: [MinecraftAuth.me](https://minecraftauth.me/) - Frontend • *(Pebble template engine)*
+  * :gem: [IEC Online Exams](https://www.figma.com/file/uR9VORXYWEs2h1WuR55lia/iec-showcase?type=design&node-id=0%3A1&t=fuJUmENxXeDI3AfW-1) - Fullstack • A private online exam CMS and exam session backend *(NestJS backend, ReactJS + Reactstrap frontend)*
+  
+  ### Open-source Projects/Frameworks/Boilerplates
+  * :gem: [The Spawn Project (TSL)](https://github.com/TheSpawnProject) - A ruleset handling engine & markup/config language (called [TSL](https://github.com/TheSpawnProject/TheSpawnLanguage/blob/master/specifications/TSL2.0.0.md))
+  * :gem: [TwitchSpawn (TSL)](https://github.com/iGoodie/TwitchSpawn) - Older version of The Spawn Project, implemented as a Minecraft mod only
+  * :gem: [Monorepo Networker](https://github.com/CoconutGoodie/monorepo-networker) - An IPC messages management tool, intended for monorepos like Figma plugins and FiveM scripts
+  * :gem: [Figma Plugin Boilerplate: React + Vite](https://github.com/CoconutGoodie/figma-plugin-react-vite) - A figma plugin boilerplate, that simplifies building plugins with React + Vite
+  * :gem: [Arcdps Updater](https://github.com/iGoodie/ArcDPS_Updater_DX11) - An auto updater for [Arcdps (DX11 update)](https://www.deltaconnected.com/arcdps/), which is a Guild Wars 2 add-on
+  * :gem: [Sarma](https://github.com/bos-isler/sarma) - A lightweight chat message token parser written in Typescript
 </details>
 
 <details>
@@ -60,6 +68,7 @@
   * :star: [LokiJS](https://github.com/techfort/LokiJS) - In-memory database implementation
   * :cyclone: [Sequelize](https://sequelize.org/) - An abstracted ORM library, works with most of the SQL DBMS'
   * :cyclone: [Redis](https://redis.io/) - In-memory data store, generally comes in handy when I need to cache stuff
+  * :cyclone: [Firebase](https://firebase.google.com/) - An app development platform, which I generally use when I need a quick diff pubsub database solution
   * :cyclone: [RabbitMQ](https://www.rabbitmq.com/) - Message queueing tool, which I mostly use as an IPC barebone
   * :cyclone: [Handlebars.js](https://handlebarsjs.com/) - A template render engine, which comes in handy when storing mail templates as an artifact
   * :cyclone: [Express](https://expressjs.com/) - A barebones of a HTTP/S backend framework
