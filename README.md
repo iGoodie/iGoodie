@@ -71,6 +71,7 @@
   * :star: [Socket.IO](https://socket.io/) - Websocket integrations
   * :star: [Mongoose](https://mongoosejs.com/) - An ORM for Mongo driver
   * :star: [LokiJS](https://github.com/techfort/LokiJS) - In-memory database implementation
+  * :cyclone: [Strapi](https://strapi.io/) - An Open-source React CMS, which I often use when I need a fast CMS implementation
   * :cyclone: [Sequelize](https://sequelize.org/) - An abstracted ORM library, works with most of the SQL DBMS'
   * :cyclone: [Redis](https://redis.io/) - In-memory data store, generally comes in handy when I need to cache stuff
   * :cyclone: [Firebase](https://firebase.google.com/) - An app development platform, which I generally use when I need a quick diff pubsub database solution
@@ -79,6 +80,7 @@
   * :cyclone: [Express](https://expressjs.com/) - A barebones of a HTTP/S backend framework
   * :cyclone: [FeathersJS](https://feathersjs.com/) - A backend framework
   * :herb: [Fastify](https://www.fastify.io/) - Sort of *a faster Express*, I generally use it to fasten up NestJS' underlying transports
+  * :herb: [Docker](https://www.docker.com/) - An OS-level virtualization tool, that I generally use to run development database images
   
   ### Database Management Systems
   * :star: [MongoDB](https://www.mongodb.com/) - My all-times favourite NoSQL DBMS
