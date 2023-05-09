@@ -22,6 +22,7 @@
 <details>
   <summary>:last_quarter_moon: Frontend Coding Stack</summary>
   
+  \
   (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
 
   ### Dev Tools
@@ -60,6 +61,7 @@
 <details>
   <summary>:first_quarter_moon: Backend Coding Stack</summary>
   
+  \
   (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
     
   ### Dev Tools
@@ -89,7 +91,8 @@
 
 <details>
   <summary>:new_moon: Other Technologies/Stacks</summary>
- 
+  
+  \
   (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
 
   ### Minecraft/Java
@@ -104,6 +107,6 @@
   * :cyclone: [Eclipse](https://www.eclipse.org/) - A Java focused IDE with high customizability. I used to use it, when I was studying university lectures
   
   ### Linguistics
-  * :star: [lsp4e](https://github.com/eclipse/lsp4e) - A Language Server Protocol (LSP) framework for Java, which I mainly use while developing [The Spawn Language VSCode extension]()
+  * :star: [lsp4e](https://github.com/eclipse/lsp4e) - A Language Server Protocol (LSP) framework for Java, which I mainly use while developing [TSL VSCode extension]()
   * :cyclone: [Antlr4](https://www.antlr.org/) - A language recognition tool, which has its own syntax and generates parsers
 </details>
