@@ -10,11 +10,13 @@
   ### Open-source Projects/Frameworks/Boilerplates
   * :gem: [The Spawn Project (TSL)](https://github.com/TheSpawnProject) - A ruleset handling engine & markup/config language (called [TSL](https://github.com/TheSpawnProject/TheSpawnLanguage/blob/master/specifications/TSL2.0.0.md))
   * :gem: [TwitchSpawn (TSL)](https://github.com/iGoodie/TwitchSpawn) - Older version of The Spawn Project, implemented as a Minecraft mod only
+  * :gem: [The Spawn Language VSCode Extension](https://marketplace.visualstudio.com/items?itemName=iGoodie.tsl) - A VSCode extension to assist TSL ruleset creation with its TSL-LSP implementation
   * :gem: [RuntimeGoodies](https://github.com/iGoodie/RuntimeGoodies) - Java configuration de/serialization ORM library, with an auto-fixing attempt twist
   * :gem: [Monorepo Networker](https://github.com/CoconutGoodie/monorepo-networker) - An IPC messages management tool, intended for monorepos like Figma plugins and FiveM scripts
   * :gem: [Figma Plugin Boilerplate: React + Vite](https://github.com/CoconutGoodie/figma-plugin-react-vite) - A figma plugin boilerplate, that simplifies building plugins with React + Vite
-  * :gem: [Arcdps Updater](https://github.com/iGoodie/ArcDPS_Updater_DX11) - An auto updater for [Arcdps (DX11 update)](https://www.deltaconnected.com/arcdps/), which is a Guild Wars 2 add-on
+  * :gem: [Arcdps Updater](https://github.com/iGoodie/ArcDPS_Updater_DX11) - An updater client for [Arcdps (DX11 update)](https://www.deltaconnected.com/arcdps/), which is a Guild Wars 2 add-on
   * :gem: [Sarma](https://github.com/bos-isler/sarma) - A lightweight chat message token parser written in Typescript
+  * :gem: [paper-editor](https://github.com/iGoodie/paper-editor) - An extensible print-ready paper editor core, intended to be mainly used in one of my freelance commissions
 </details>
 
 <details>
@@ -83,5 +85,25 @@
   ### Build-time Tools
   * :star: [NestJS-CLI](https://github.com/nestjs/nest-cli) - Since I use NestJS very often, I use its CLI to build NestJS projects
   * :star: [Gulp.js](https://gulpjs.com/) - Task automation tool like Gradle
+</details>
+
+<details>
+  <summary>:new_moon: Other Technologies/Stacks</summary>
+ 
+  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
+
+  ### Minecraft/Java
+  * :star: [Minecraft Forge](https://forums.minecraftforge.net/) - A Minecraft mod development platform
+  * :star: [Minecraft Architectury](https://docs.architectury.dev/start) - A Minecraft mod development platform, that exports cross-platform builds
+  * :star: [Gradle](https://gradle.org/) - A build tool for Java projects
+  * :star: [JUnit](https://junit.org/junit5/) - A testing framework for Java
   
+  ### IDE's I Use
+  * :star: [Visual Studio Code](https://code.visualstudio.com/) - A very customizable IDE, which I mainly use to develop JS-related projects
+  * :star: [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A Java focused IDE, which I basically use for every Java code piece I write
+  * :cyclone: [Eclipse](https://www.eclipse.org/) - A Java focused IDE with high customizability. I used to use it, when I was studying university lectures
+  
+  ### Linguistics
+  * :star: [lsp4e](https://github.com/eclipse/lsp4e) - A Language Server Protocol (LSP) framework for Java, which I mainly use while developing [The Spawn Language VSCode extension]()
+  * :cyclone: [Antlr4](https://www.antlr.org/) - A language recognition tool, which has its own syntax and generates parsers
 </details>
