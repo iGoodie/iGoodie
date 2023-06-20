@@ -3,7 +3,7 @@
   
   ### Websites
   * :gem: [VaultHunters.gg](https://vaulthunters.gg/) - Fullstack • *(NestJS backend, ReactJS frontend)*
-  * :gem: [VaultHunters.gg Armory](https://vaulthunters.gg/armory) - Backend and GameSever Worker • *(NestJS backend, Java GameServer worker)*
+  * :gem: [VaultHunters.gg Armory](https://vaulthunters.gg/armory) - Backend and GameServer Worker • *(NestJS backend, Java GameServer worker)*
   * :gem: [MinecraftAuth.me](https://minecraftauth.me/) - Frontend • *(Pebble template engine)*
   * :gem: [IEC Online Exams](https://www.figma.com/file/uR9VORXYWEs2h1WuR55lia/iec-showcase?type=design&node-id=0%3A1&t=fuJUmENxXeDI3AfW-1) - Fullstack • A private online exam CMS and exam session backend *(NestJS backend, ReactJS + Reactstrap frontend)*
   
