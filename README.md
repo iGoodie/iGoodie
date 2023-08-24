@@ -34,6 +34,7 @@
   * :star: [Redux-persist](https://github.com/rt2zz/redux-persist) - Global state de/hydration for the projects I use RTK
   * :star: [Axios](https://axios-http.com/) - HTTP/S client for API integrations
   * :star: [Socket.IO](https://socket.io/) - Websocket integrations
+  * :star: [Apollo Client/GraphQL](https://www.apollographql.com/docs/react/) - A query language as a protocol between backend and frontend apps 
   * :cyclone: [GraphQL](https://graphql.org/) - When backend exposes a GQL API
   * :cyclone: [Handlebars.js](https://handlebarsjs.com/) - A template render engine, which comes in handy when storing mail templates as an artifact
   * :cyclone: [Pebble](https://pebbletemplates.io/) - A Java template render engine
@@ -43,8 +44,8 @@
   
   ### Stylesheet Tools
   * :star: [Sass](https://sass-lang.com/) - CSS transpiler with awesome syntactic sugars
+  * :star: [TailwindCSS](https://tailwindcss.com/) - A CSS toolkit/library
   * :cyclone: [Bootstrap](https://getbootstrap.com/) - A CSS toolkit/library
-  * :herb: [TailwindCSS](https://tailwindcss.com/) - A CSS toolkit/library
   
   ### Build-time Tools
   * :star: [Vite](https://vitejs.dev/) - Build pipe and bundling stuff, both for Web apps and Figma plugins
