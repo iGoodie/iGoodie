@@ -5,6 +5,9 @@
   <a href="https://gw2efficiency.com/account/character/Victor%20Augustus/share?filter.buildTab=3&filter.equipmentTab=2" title="Guild Wars 2 Main Character">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/c0b5e4bc-9071-46c1-bea2-22ba6acdb3c5" style="padding-right:10px;" />
   </a>
+  <a href="https://killproof.me/proof/k8n3w" title="Guild Wars 2 KillProof">
+    <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/ff35bb37-7b96-4759-a802-02121a955c53" style="padding-right:10px;" />
+  </a>
   <a href="https://typehero.dev/@iGoodie" title="TypeHero Profile">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/b53fa9b3-d804-4cfe-8083-9b36b259fcfe" style="padding-right:10px;" />
   </a>
