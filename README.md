@@ -40,7 +40,7 @@
   <summary>:last_quarter_moon: Frontend Coding Stack</summary>
   
   \
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
+  ( :star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge )
 
   ### Dev Tools
   * :star: [Typescript](https://www.typescriptlang.org/) - Type safe Javascript transpiler
@@ -80,7 +80,7 @@
   <summary>:first_quarter_moon: Backend Coding Stack</summary>
   
   \
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
+  ( :star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge )
     
   ### Dev Tools
   * :star: [Typescript](https://www.typescriptlang.org/) - Type safe Javascript transpiler
@@ -113,7 +113,7 @@
   <summary>:new_moon: Other Technologies/Stacks</summary>
   
   \
-  (:star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge)
+  ( :star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge )
 
   ### Minecraft/Java
   * :star: [Minecraft Forge](https://forums.minecraftforge.net/) - A Minecraft mod development platform
