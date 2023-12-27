@@ -3,13 +3,12 @@
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/1298c8a3-c123-444f-8696-e2a08fcc07fc" style="padding-right:10px;" />
   </a>
   <a href="https://gw2efficiency.com/account/character/Victor%20Augustus/share?filter.buildTab=3&filter.equipmentTab=2" title="Guild Wars 2 Main Character">
-    <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/914007f2-5f8a-4de1-bfab-3adcd576379d" style="padding-right:10px;" />
+    <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/c0b5e4bc-9071-46c1-bea2-22ba6acdb3c5" style="padding-right:10px;" />
   </a>
   <a href="https://typehero.dev/@iGoodie" title="TypeHero Profile">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/b53fa9b3-d804-4cfe-8083-9b36b259fcfe" style="padding-right:10px;" />
   </a>
 </div>
-
 
 <p></p>
 
