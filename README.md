@@ -1,17 +1,17 @@
 <div>
-  <a href="https://vaulthunters.gg/armory/iGoodie" title="Vault Hunters Armory">
+  <a href="https://vaulthunters.gg/armory/iGoodie" target="_blank" title="Vault Hunters Armory">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/1298c8a3-c123-444f-8696-e2a08fcc07fc" style="padding-right:10px;" />
   </a>
-  <a href="https://steamcommunity.com/id/igoodiex/" title="Steam Profile">
+  <a href="https://steamcommunity.com/id/igoodiex/" target="_blank" title="Steam Profile">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/8c680a2f-f32f-4973-9c2e-ad44faf4f8f9" style="padding-right:10px;" />
   </a>
-  <a href="https://gw2efficiency.com/account/character/Victor%20Augustus/share?filter.buildTab=3&filter.equipmentTab=2" title="Guild Wars 2 Main Character">
+  <a href="https://gw2efficiency.com/account/character/Victor%20Augustus/share?filter.buildTab=3&filter.equipmentTab=2" target="_blank" title="Guild Wars 2 Main Character">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/c0b5e4bc-9071-46c1-bea2-22ba6acdb3c5" style="padding-right:10px;" />
   </a>
-  <a href="https://killproof.me/proof/k8n3w" title="Guild Wars 2 KillProof">
+  <a href="https://killproof.me/proof/k8n3w" target="_blank" title="Guild Wars 2 KillProof">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/ff35bb37-7b96-4759-a802-02121a955c53" style="padding-right:10px;" />
   </a>
-  <a href="https://typehero.dev/@iGoodie" title="TypeHero Profile">
+  <a href="https://typehero.dev/@iGoodie" target="_blank" title="TypeHero Profile">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/b53fa9b3-d804-4cfe-8083-9b36b259fcfe" style="padding-right:10px;" />
   </a>
 </div>
