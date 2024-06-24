@@ -55,7 +55,10 @@
   * :star: [Axios](https://axios-http.com/) - HTTP/S client for API integrations
   * :star: [Socket.IO](https://socket.io/) - Websocket integrations
   * :star: [GraphQL](https://graphql.org/) - When backend exposes a GQL API (A query language as a protocol between backend and frontend apps )
-  * :star: [Apollo Client](https://www.apollographql.com/docs/react/) - An amazingly easy GraphQL Client, that I use with React apps
+  * :star: [Apollo Client](https://www.apollographql.com/docs/react/) - An amazingly easy GraphQL Client, that I use with React apps,
+  * :star: [Remeda](https://remedajs.com/) - Library full of functional utilities
+  * :star: [Lodash / Lodash-es](https://lodash.com/) - Library full of utilities
+  * :cyclone: [Vue](https://vuejs.org/) - Frontend VDOM framework
   * :cyclone: [Handlebars.js](https://handlebarsjs.com/) - A template render engine, which comes in handy when storing mail templates as an artifact
   * :cyclone: [Pebble](https://pebbletemplates.io/) - A Java template render engine
   * :cyclone: [P5.js](https://p5js.org/) - A very high level GL canvas, pretty good for 2D draw contexts
