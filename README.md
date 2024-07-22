@@ -133,6 +133,6 @@
   * :cyclone: [Eclipse](https://www.eclipse.org/) - A Java focused IDE with high customizability. I used to use it, when I was studying university lectures
   
   ### Linguistics
+  * :star: [Antlr4](https://www.antlr.org/) - A language recognition tool, which has its own syntax and generates parsers
   * :star: [lsp4j](https://github.com/eclipse-lsp4j/lsp4j) - A Language Server Protocol (LSP) framework for Java, which I mainly use while developing [TSL VSCode extension](https://marketplace.visualstudio.com/items?itemName=iGoodie.tsl)
-  * :cyclone: [Antlr4](https://www.antlr.org/) - A language recognition tool, which has its own syntax and generates parsers
 </details>
