@@ -68,6 +68,10 @@
   * :cyclone: [P5.js](https://p5js.org/) - A very high level GL canvas, pretty good for 2D draw contexts
   * :cyclone: [Three.js](https://threejs.org/) - A very high level GL canvas, pretty good for 3D draw contexts
   * :herb: [WebGL](https://www.khronos.org/webgl/) - OpenGL wrapper that works on web
+
+  ### Meta-frameworks
+  * :star: [Vike](https://vike.dev/) - An incredibly flexible meta framework, allows you to use a very customized fullstack web architecture
+  * :cyclone: [NextJS](https://nextjs.org/) - A meta framework for React by Vercel
   
   ### Stylesheet Tools
   * :star: [Sass](https://sass-lang.com/) - CSS transpiler with awesome syntactic sugars
