@@ -70,7 +70,8 @@
   * :herb: [WebGL](https://www.khronos.org/webgl/) - OpenGL wrapper that works on web
 
   ### Meta-frameworks
-  * :star: [Vike](https://vike.dev/) - An incredibly flexible meta framework, allows you to use a very customized fullstack web architecture
+  * :star: [Vike](https://vike.dev/) - An incredibly flexible meta framework on top of Vite, allows you to use a very customized fullstack web architecture
+  * :star: [Vike-react](https://vike.dev/vike-react) - The Vike extension that integrates React to your stack
   * :cyclone: [NextJS](https://nextjs.org/) - A meta framework for React by Vercel
   
   ### Stylesheet Tools
