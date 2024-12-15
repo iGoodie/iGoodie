@@ -48,7 +48,7 @@
   ### Dev Tools
   * :star: [Typescript](https://www.typescriptlang.org/) - Type safe Javascript transpiler
   * :star: [React](https://react.dev/) - Frontend VDOM framework
-  * :star: [React Router 6](https://reactrouter.com/en/6.11.1) - Routing mechanism for React apps
+  * :star: [React Router](https://reactrouter.com/) - Routing mechanism for React apps
   * :star: [Zustand](https://github.com/pmndrs/zustand) - Global state management
   * :star: [Redux with RTK](https://redux-toolkit.js.org/) - Global state management
   * :star: [Redux-persist](https://github.com/rt2zz/redux-persist) - Global state de/hydration for the projects I use RTK
@@ -58,6 +58,10 @@
   * :star: [Apollo Client](https://www.apollographql.com/docs/react/) - An amazingly easy GraphQL Client, that I use with React apps,
   * :star: [Remeda](https://remedajs.com/) - Library full of functional utilities
   * :star: [Lodash / Lodash-es](https://lodash.com/) - Library full of utilities
+  * :star: [Remeda](https://remedajs.com/) - Library full of utilities
+  * :star: [ThreeJS](https://threejs.org/) - 3D Graphics library for web
+  * :star: [React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction) - ThreeJS wrapper for ReactJS
+  * :star: [Drei](https://r3f.docs.pmnd.rs/getting-started/introduction) - Handful of React Three Fiber abstractions and helpers
   * :cyclone: [Vue](https://vuejs.org/) - Frontend VDOM framework
   * :cyclone: [Handlebars.js](https://handlebarsjs.com/) - A template render engine, which comes in handy when storing mail templates as an artifact
   * :cyclone: [Pebble](https://pebbletemplates.io/) - A Java template render engine
