@@ -20,12 +20,36 @@
 
 <details>
   <summary>:gem: Showcase</summary>
+
+  ### Featured
+  <a href="https://github.com/TheSpawnProject/TheSpawnLanguage" target="_blank" title="React Library: make-reactive">
+    <img height="60px" src="https://github.com/TheSpawnProject/TheSpawnLanguage-LSP/blob/master/.github/assets/logo.png" style="padding-right:20px;" />
+  </a>
+  <a href="https://github.com/iGoodie/make-reactive" target="_blank" title="React Library: make-reactive">
+    <img height="60px" src="https://github.com/iGoodie/make-reactive/blob/master/.github/assets/logo.svg" style="padding-right:20px;" />
+  </a>
+  <a href="https://github.com/CoconutGoodie/monorepo-networker" target="_blank" title="NodeJS Library: monorepo-networker">
+      <picture style="padding-right:20px;">
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          height="60px"
+          srcset="https://raw.githubusercontent.com/CoconutGoodie/monorepo-networker/master/.github/assets/light-logo.svg" />
+        <img 
+          src   ="https://raw.githubusercontent.com/CoconutGoodie/monorepo-networker/master/.github/assets/dark-logo.svg" 
+          height="60px"
+          alt   =""/>
+      </picture>
+  </a>
+  <a href="https://github.com/CoconutGoodie/stardew-save-analyzer" target="_blank" title="Fan Project: Stardew Save Analyzer">
+    <img height="60px" src="https://github.com/iGoodie/stardew-save-analyzer/assets/8591785/ca9cfc13-aa1c-4dc6-87da-ce895e029c8f" style="padding-right:20px;" />
+  </a>
   
   ### Websites
   * :gem: [VaultHunters.gg](https://vaulthunters.gg/) - Fullstack • *(NestJS backend, ReactJS frontend)*
   * :gem: [VaultHunters.gg Armory](https://vaulthunters.gg/armory) - Backend and GameServer Worker • *(NestJS backend, Java GameServer worker)*
   * :gem: [MinecraftAuth.me](https://minecraftauth.me/) - Frontend • *(Pebble template engine)*
   * :gem: [IEC Online Exams](https://www.figma.com/file/uR9VORXYWEs2h1WuR55lia/iec-showcase?type=design&node-id=0%3A1&t=fuJUmENxXeDI3AfW-1) - Fullstack • A private online exam CMS and exam session backend *(NestJS backend, ReactJS + Reactstrap frontend)*
+  * :gem: [Stardew Save Analyzer](https://stardew-save-analyzer.onrender.com/) - A Fan Made save analyzer tool for a popular game called "Stardew Valley"
   
   ### Open-source Projects/Frameworks/Boilerplates
   * :gem: [The Spawn Project (TSL)](https://github.com/TheSpawnProject) - A ruleset handling engine & markup/config language (called [TSL](https://github.com/TheSpawnProject/TheSpawnLanguage/blob/master/specifications/TSL2.0.0.md))
@@ -37,6 +61,21 @@
   * :gem: [Arcdps Updater](https://github.com/iGoodie/ArcDPS_Updater_DX11) - An updater client for [Arcdps (DX11 update)](https://www.deltaconnected.com/arcdps/), which is a Guild Wars 2 add-on
   * :gem: [Sarma](https://github.com/bos-isler/sarma) - A lightweight chat message token parser written in Typescript
   * :gem: [paper-editor](https://github.com/iGoodie/paper-editor) - An extensible print-ready paper editor core, intended to be mainly used in one of my freelance commissions
+
+  #### Boilerplate: Figma Plugin with React + Vite
+  <a href="https://github.com/CoconutGoodie/figma-plugin-react-vite" target="_blank" title="Boilerplate: Figma Plugin with React + Vite">
+    <img height="60px" src="https://github.com/CoconutGoodie/figma-plugin-react-vite/blob/master/.github/assets/logo.png" style="padding-right:20px;" />
+  </a>
+  
+  #### Vite Plugin: SVG Loader
+  <a href="https://github.com/iGoodie/vite-plugin-react-rich-svg" target="_blank" title="Vite Plugin: vite-plugin-react-rich-svg">
+    <img height="60px" src="https://github.com/iGoodie/vite-plugin-react-rich-svg/blob/main/.github/assets/logo.svg" style="padding-right:20px;" />
+  </a>
+  
+  #### NestJS Library: Hybrid Websocket Adapter
+  <a href="https://github.com/iGoodie/nestjs-hybrid-websocket-adapter" target="_blank" title="NestJS Library: Hybrid Websocket Adapter">
+    <img height="60px" src="https://github.com/iGoodie/nestjs-hybrid-websocket-adapter/blob/master/.github/logo.svg" style="padding-right:20px;" />
+  </a>
 </details>
 
 <details>
