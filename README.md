@@ -14,7 +14,7 @@
   <a href="https://typehero.dev/@iGoodie" target="_blank" title="TypeHero Profile">
     <img width="32px" src="https://github.com/iGoodie/iGoodie/assets/8591785/b53fa9b3-d804-4cfe-8083-9b36b259fcfe" style="padding-right:10px;" />
   </a>
-  <a href="https://typehero.dev/@iGoodie" target="_blank" title="TypeHero Profile">
+  <a href="https://dev.to/igoodie" target="_blank" title="TypeHero Profile">
     <img width="32px" src="https://github.com/user-attachments/assets/67751076-e254-4ebf-8bfc-2c6658876836" style="padding-right:10px;" />
   </a>
 </div>
