@@ -100,7 +100,6 @@
   * :star: [Apollo Client](https://www.apollographql.com/docs/react/) - An amazingly easy GraphQL Client, that I use with React apps,
   * :star: [Remeda](https://remedajs.com/) - Library full of functional utilities
   * :star: [Lodash / Lodash-es](https://lodash.com/) - Library full of utilities
-  * :star: [Remeda](https://remedajs.com/) - Library full of utilities
   * :star: [ThreeJS](https://threejs.org/) - 3D Graphics library for web
   * :star: [React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction) - ThreeJS wrapper for ReactJS
   * :star: [Drei](https://r3f.docs.pmnd.rs/getting-started/introduction) - Handful of React Three Fiber abstractions and helpers
