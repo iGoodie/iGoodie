@@ -158,11 +158,30 @@
   
   ### Database Management Systems
   * :star: [MongoDB](https://www.mongodb.com/) - My all-times favourite NoSQL DBMS
-  * :cyclone: [MySQL](https://www.mysql.com/) - When I need an SQL DBMS, I prefer this one
+  * :star: [Postgresql](https://www.postgresql.org/) - When I need an SQL DBMS, I prefer this one
+  * :cyclone: [MySQL](https://www.mysql.com/) - I used to prefer this one, before I met Postgresql
   
   ### Build-time Tools
   * :star: [NestJS-CLI](https://github.com/nestjs/nest-cli) - Since I use NestJS very often, I use its CLI to build NestJS projects
   * :star: [Gulp.js](https://gulpjs.com/) - Task automation tool like Gradle
+</details>
+
+<details>
+  <summary>🌔 DevOps & Deployment Knowledge</summary>
+  
+  \
+  ( :star:: Frequently used; :cyclone:: Has knowledge to use with ease; :herb:: Has a limited knowledge )
+
+  ### Deployment Platforms
+  * :star: [Vercel](https://vercel.com/) - Whenever I need a quick frontend-only deployment
+  * :star: [Render.com](https://render.com/) - Whenever I need a quick Vike-based deployment
+  * :star: [DigitalOcean](https://www.digitalocean.com/) - A great platform for virtual hosting
+  * :star: [Amazon Lightsail](https://aws.amazon.com/lightsail/) - A great platform for virtual hosting
+    
+  ### Ubuntu Tools
+  * :star: [Nginx](https://nginx.org/) - Whenever I need reverse proxy or easy routing control
+  * :star: [PM2](https://pm2.keymetrics.io/) - Services made easy to monitor and kickstart with it
+  * :cyclone: [Systemd](https://systemd.io/) - Yet another system service management tool
 </details>
 
 <details>
