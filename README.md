@@ -31,19 +31,19 @@
   <a href="https://github.com/iGoodie/make-reactive" target="_blank" title="React Library: make-reactive">
     <img height="60px" src="https://github.com/iGoodie/make-reactive/blob/master/.github/assets/logo.svg" style="padding-right:20px;" />
   </a>
-  <a href="https://github.com/CoconutGoodie/monorepo-networker" target="_blank" title="NodeJS Library: monorepo-networker">
+  <a href="https://github.com/iGoodie/monorepo-networker" target="_blank" title="NodeJS Library: monorepo-networker">
       <picture style="padding-right:20px;">
         <source 
           media="(prefers-color-scheme: dark)" 
           height="60px"
-          srcset="https://raw.githubusercontent.com/CoconutGoodie/monorepo-networker/master/.github/assets/light-logo.svg" />
+          srcset="https://raw.githubusercontent.com/iGoodie/monorepo-networker/master/.github/assets/light-logo.svg" />
         <img 
-          src   ="https://raw.githubusercontent.com/CoconutGoodie/monorepo-networker/master/.github/assets/dark-logo.svg" 
+          src   ="https://raw.githubusercontent.com/iGoodie/monorepo-networker/master/.github/assets/dark-logo.svg" 
           height="60px"
           alt   =""/>
       </picture>
   </a>
-  <a href="https://github.com/CoconutGoodie/stardew-save-analyzer" target="_blank" title="Fan Project: Stardew Save Analyzer">
+  <a href="https://github.com/iGoodie/stardew-save-analyzer" target="_blank" title="Fan Project: Stardew Save Analyzer">
     <img height="60px" src="https://github.com/iGoodie/stardew-save-analyzer/assets/8591785/ca9cfc13-aa1c-4dc6-87da-ce895e029c8f" style="padding-right:20px;" />
   </a>
   
@@ -59,15 +59,15 @@
   * :gem: [TwitchSpawn (TSL)](https://github.com/iGoodie/TwitchSpawn) - Older version of The Spawn Project, implemented as a Minecraft mod only
   * :gem: [The Spawn Language VSCode Extension](https://marketplace.visualstudio.com/items?itemName=iGoodie.tsl) - A VSCode extension to assist TSL ruleset creation with its TSL-LSP implementation
   * :gem: [RuntimeGoodies](https://github.com/iGoodie/RuntimeGoodies) - Java configuration de/serialization ORM library, with an auto-fixing attempt twist
-  * :gem: [Monorepo Networker](https://github.com/CoconutGoodie/monorepo-networker) - An IPC messages management tool, intended for monorepos like Figma plugins and FiveM scripts
-  * :gem: [Figma Plugin Boilerplate: React + Vite](https://github.com/CoconutGoodie/figma-plugin-react-vite) - A figma plugin boilerplate, that simplifies building plugins with React + Vite
+  * :gem: [Monorepo Networker](https://github.com/iGoodie/monorepo-networker) - An IPC messages management tool, intended for monorepos like Figma plugins and FiveM scripts
+  * :gem: [Figma Plugin Boilerplate: React + Vite](https://github.com/iGoodie/figma-plugin-react-vite) - A figma plugin boilerplate, that simplifies building plugins with React + Vite
   * :gem: [Arcdps Updater](https://github.com/iGoodie/ArcDPS_Updater_DX11) - An updater client for [Arcdps (DX11 update)](https://www.deltaconnected.com/arcdps/), which is a Guild Wars 2 add-on
   * :gem: [Sarma](https://github.com/bos-isler/sarma) - A lightweight chat message token parser written in Typescript
   * :gem: [paper-editor](https://github.com/iGoodie/paper-editor) - An extensible print-ready paper editor core, intended to be mainly used in one of my freelance commissions
 
   #### Boilerplate: Figma Plugin with React + Vite
-  <a href="https://github.com/CoconutGoodie/figma-plugin-react-vite" target="_blank" title="Boilerplate: Figma Plugin with React + Vite">
-    <img height="60px" src="https://github.com/CoconutGoodie/figma-plugin-react-vite/blob/master/.github/assets/logo.png" style="padding-right:20px;" />
+  <a href="https://github.com/iGoodie/figma-plugin-react-vite" target="_blank" title="Boilerplate: Figma Plugin with React + Vite">
+    <img height="60px" src="https://github.com/iGoodie/figma-plugin-react-vite/blob/master/.github/assets/logo.png" style="padding-right:20px;" />
   </a>
   
   #### Vite Plugin: SVG Loader
