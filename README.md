@@ -28,7 +28,7 @@
   <a href="https://github.com/TheSpawnProject/TheSpawnLanguage" target="_blank" title="React Library: make-reactive">
     <img height="60px" src="https://github.com/TheSpawnProject/TheSpawnLanguage-LSP/blob/master/.github/assets/logo.png" style="padding-right:20px;" />
   </a>
-  <a href="https://jitpack.io/#iGoodie/RuntimeGoodies">
+  <a href="https://github.com/iGoodie/RuntimeGoodies" target="_blank" title="Java ORM/Config IO Library: RuntimeGoodies">
     <img height="60px" src="https://raw.githubusercontent.com/iGoodie/RuntimeGoodies/master/.github/assets/logo.png" height="150" alt="RuntimeGoodies Logo" aria-label="RuntimeGoodies Logo" />
   </a>
   <a href="https://github.com/iGoodie/make-reactive" target="_blank" title="React Library: make-reactive">
