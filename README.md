@@ -25,7 +25,7 @@
   <summary>:gem: Showcase</summary>
 
   ### Featured
-  <a href="https://github.com/TheSpawnProject/TheSpawnLanguage" target="_blank" title="React Library: make-reactive">
+  <a href="https://github.com/TheSpawnProject/TheSpawnLanguage" target="_blank" title="Custom DSL: The Spawn Language">
     <img height="60px" src="https://github.com/TheSpawnProject/TheSpawnLanguage-LSP/blob/master/.github/assets/logo.png" style="padding-right:20px;" />
   </a>
   <a href="https://github.com/iGoodie/RuntimeGoodies" target="_blank" title="Java ORM/Config IO Library: RuntimeGoodies">
