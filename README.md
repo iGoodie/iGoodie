@@ -31,6 +31,9 @@
   <a href="https://github.com/iGoodie/RuntimeGoodies" target="_blank" title="Java ORM/Config IO Library: RuntimeGoodies">
     <img height="60px" src="https://raw.githubusercontent.com/iGoodie/RuntimeGoodies/master/.github/assets/logo.png" height="150" alt="RuntimeGoodies Logo" aria-label="RuntimeGoodies Logo" />
   </a>
+  <a href="https://github.com/iGoodie/goodie-forms" target="_blank" title="Web Form State/Data Management Library: goodie-forms">
+    <img height="60px" src="https://raw.githubusercontent.com/iGoodie/goodie-forms/master/.github/assets/logo.svg" height="150" alt="goodie-forms Logo" aria-label="goodie-forms Logo" />
+  </a>
   <a href="https://github.com/iGoodie/make-reactive" target="_blank" title="React Library: make-reactive">
     <img height="60px" src="https://github.com/iGoodie/make-reactive/blob/master/.github/assets/logo.svg" style="padding-right:20px;" />
   </a>
