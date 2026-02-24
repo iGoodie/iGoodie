@@ -109,12 +109,16 @@
   * :star: [ThreeJS](https://threejs.org/) - 3D Graphics library for web
   * :star: [React Three Fiber](https://r3f.docs.pmnd.rs/getting-started/introduction) - ThreeJS wrapper for ReactJS
   * :star: [Drei](https://r3f.docs.pmnd.rs/getting-started/introduction) - Handful of React Three Fiber abstractions and helpers
+  * :star: [Zod](https://zod.dev/) - A super handy, schema based ([StandardSchema](https://standardschema.dev/) compliant) data validation library I very much enjoy using
+  * :star: [Goodie Forms](https://github.com/iGoodie/goodie-forms) - A modern and unopinionated form state/data management library I crafted from scratch
+  * :cyclone: [React-hook-form](https://react-hook-form.com/) - The form state/data management library I used before crafting [Goodie Forms](https://github.com/iGoodie/goodie-forms). Good old RHF
   * :cyclone: [Vue](https://vuejs.org/) - Frontend VDOM framework
   * :cyclone: [Handlebars.js](https://handlebarsjs.com/) - A template render engine, which comes in handy when storing mail templates as an artifact
   * :cyclone: [Pebble](https://pebbletemplates.io/) - A Java template render engine
   * :cyclone: [P5.js](https://p5js.org/) - A very high level GL canvas, pretty good for 2D draw contexts
   * :cyclone: [Three.js](https://threejs.org/) - A very high level GL canvas, pretty good for 3D draw contexts
-  * :herb: [WebGL](https://www.khronos.org/webgl/) - OpenGL wrapper that works on web
+  * :cyclone: [WebGL](https://www.khronos.org/webgl/) - OpenGL wrapper that works on web
+  * :herb: [WebGPU](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - Web's official graphics interface API
 
   ### Meta-frameworks
   * :star: [Vike](https://vike.dev/) - An incredibly flexible meta framework on top of Vite, allows you to use a very customized fullstack web architecture
